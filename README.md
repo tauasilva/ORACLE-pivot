@@ -1,2 +1,5 @@
 # ORACLE-pivot
-exemplos de uso da função PIVOT no ORACLE 
+
+Alguns casos de uso da função ORACLE PIVOT.
+
+Autor Tauã Fagundes / tauafagundessilva@gmail.com
